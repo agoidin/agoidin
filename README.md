@@ -31,8 +31,6 @@ I am a versatile and professional computer science graduate with an experience o
 ![virtualbox](https://img.shields.io/badge/tools-virtualbox-brightgreen?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ![typescript](https://img.shields.io/badge/learning-typescript-green?style=for-the-badge&logo=typescript&logoColor=white)
-![sql server](https://img.shields.io/badge/learning-SQL%20Server-green?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
-![android studio](https://img.shields.io/badge/learning-android_studio-green?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
 ## :sparkles: Hobbies
